@@ -50,3 +50,28 @@ table {
 /* ---------------------------------
             Mobile Styles
 -----------------------------------*/
+body{
+    line-height:1.5;
+}
+*,
+*:after,
+*:before{
+    box-sizing:inherit;
+    line-height:inherit;
+}
+img{
+	width:30%;
+}
+.clearfix:after{
+    content:'';
+    display:table;
+    clear:both;
+}
+/* Fonts */
+h1{
+
+}
+/* Banner styling */
+.banner{
+	background-image:
+}
